@@ -9,8 +9,8 @@ I'm a full-stack developer. I develop apps for web and mobile. and I am also goo
  ***get in touch***
   
 [![Facebook](https://img.shields.io/badge/Facebook-follow-blue?style=for-the-badge&logo=facebook)](www.linkedin.com/in/ahamedbilal)
-[![Twitter](https://img.shields.io/badge/Twitter-follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/BilalAzmy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedIn)](www.linkedin.com/in/ahamedbilal)
+[![Twitter](https://img.shields.io/badge/Twitter-follow-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/BilalAzmy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-darkblue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ahamedbilal)
 [![Email](https://img.shields.io/badge/Email-send-red?style=for-the-badge&logo=gmail)](mailto:ahamedbilalazmy@gmail.com)
 
 
