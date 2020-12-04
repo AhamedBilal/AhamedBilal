@@ -11,8 +11,8 @@ I'm a full-stack developer. I develop apps for web and mobile. and I am also goo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=AhamedBilal&show_icons=true" alt="AhamedBilal" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedBilal&layout=compact&hide=html" alt="AhamedBilal" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhamedBilal&show_icons=true" alt="AhamedBilal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedBilal&layout=compact&hide=html" alt="AhamedBilal" />
 </p>
 
 <div align="center">
