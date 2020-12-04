@@ -12,7 +12,7 @@ I'm a full-stack developer. I develop apps for web and mobile. and I am also goo
 
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhamedBilal&show_icons=true" alt="AhamedBilal" /></p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedBilal&layout=compact&hide=html" alt="AhamedBilal" /></p>
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedBilal&layout=compact&hide=html" alt="AhamedBilal" /></p>
 
 <div align="center">
  ***get in touch***
