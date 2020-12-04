@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://ahamedbilal.github.io">Ahamed Bilal!👋</a></h1>
 <h3 align="center">Full-stack dev 🧑‍💻 | Unity game dev</h3>
-<a href="https://www.facebook.com/ahamed.bilal.792"><img src="https://edent.github.io/SuperTinyIcons/images/svg/Facebook.svg" width="30" title="Flickr" /></a>
-<a href="https://twitter.com/BilalAzmy"><img src="https://edent.github.io/SuperTinyIcons/images/svg/Twitter.svg" width="30" title="Flickr" /></a>
+<a href="https://www.facebook.com/ahamed.bilal.792"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="30" title="Flickr" /></a>
+<a href="https://twitter.com/BilalAzmy"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="30" title="Flickr" /></a>
 <p align="center" style="font-weight:bold;" color="#fff">
 I'm a full-stack developer. I develop apps for web and mobile. and I am also good at game development with unity. also worked with AR techs. If you are a fellow developer, you are more than welcome to contribute, like, watch my Github.
 </p>
