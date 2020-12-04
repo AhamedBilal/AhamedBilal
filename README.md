@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Ahamed Bilal!](https://ahamedbilal.github.io) 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://ahamedbilal.github.io">Ahamed Bilal!👋</a></h1>
 <h3 align="center">Full-stack dev 🧑‍💻 | Unity game dev</h3>
 <a href="https://www.facebook.com/ahamed.bilal.792"><img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="30" title="Flickr" /></a>
 <a href="https://twitter.com/BilalAzmy"><img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="30" title="Flickr" /></a>
