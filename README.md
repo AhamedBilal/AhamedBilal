@@ -1,11 +1,20 @@
-### Hi there 👋
+### Hi there, I'm [Bilal!](https://ahamedbilal.github.io) 👋
 <p align="center" style="font-weight:bold;" color="#fff">
-I'm a full-stack developer. I develop apps for web and mobile. and I am also good at game development with unity. also worked with AR techs. If you are a fellow developer, you are more than welcome to contribute, like, watch my Github or If you just want to get in touch with me, just email or ping me on other social media handles.
+I'm a full-stack developer. I develop apps for web and mobile. and I am also good at game development with unity. also worked with AR techs. If you are a fellow developer, you are more than welcome to contribute, like, watch my Github.
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedBilal&layout=compact&hide=html" alt="AhamedBilal" /></p>
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhamedBilal&show_icons=true" alt="AhamedBilal" /></p>
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+
+
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhamedBilal&show_icons=true" alt="AhamedBilal" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedBilal&layout=compact&hide=html" alt="AhamedBilal" /></p>
+
 <div align="center">
-  
  ***get in touch***
   
 [![Facebook](https://img.shields.io/badge/Facebook-follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/ahamed.bilal.792)
