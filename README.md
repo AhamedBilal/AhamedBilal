@@ -5,8 +5,8 @@
 I'm a full-stack developer. I develop apps for web and mobile. and I am also good at game development with unity. also worked with AR techs. If you are a fellow developer, you are more than welcome to contribute, like, watch my Github.
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhamedBilal&show_icons=true" alt="AhamedBilal" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedBilal&layout=compact&hide=html" alt="AhamedBilal" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhamedBilal&show_icons=true&theme=prussian" alt="AhamedBilal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedBilal&layout=compact&hide=html&theme=prussian" alt="AhamedBilal" />
 </p>
 <br>
 
