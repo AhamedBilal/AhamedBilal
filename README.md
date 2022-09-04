@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahamed Bilal</h1>
-<h3 align="center">Full-stack dev technologist | Unity game dev</h3>
+<h3 align="center">Full-stack dev | Unity game dev</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahamedbilal&theme=algolia" alt="ahamedbilal" /></a> </p>
 
